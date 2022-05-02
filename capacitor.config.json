@@ -1,0 +1,6 @@
+{
+  "appId": "com.workyspacecrm.app",
+  "appName": "WorkyspaceCRM",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
